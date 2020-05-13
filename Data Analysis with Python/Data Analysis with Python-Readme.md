@@ -1,4 +1,4 @@
-# Data Analysis with Python 
+# Data Analysis with Python :black_circle:
 
 ## ABOUT THIS PYTHON COURSE
 
