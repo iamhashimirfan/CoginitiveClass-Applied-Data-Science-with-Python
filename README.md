@@ -1,4 +1,4 @@
-### CoginitiveClass-Applied-Data-Science-with-Python
+# CoginitiveClass-Applied-Data-Science-with-Python
 
 Learn how to code in Python for data science, then analyze and visualize data with Python with packages like scikit-learn, matplotlib and bokeh. This is an action-packed learning path for data science enthusiasts and aspiring data scientists who want to learn data science hands-on with Python.
 
@@ -6,7 +6,7 @@ In these data science courses, you’ll learn how to use the Python language to 
 
 ## Courses
 
-# Python for Data Science
+### Python for Data Science
 
 About the course
 
@@ -14,7 +14,7 @@ This free Python course provides a beginner-friendly introduction to Python for 
 
 Level:Beginner
 
-# Data Analysis with Python
+### Data Analysis with Python
 
 About the course
 
@@ -22,7 +22,7 @@ In this course, you will learn how to analyze data in Python using multi-dimensi
 
 Level:Intermediate
 
-# Data Visualization with Python
+### Data Visualization with Python
 
 About the course
 
