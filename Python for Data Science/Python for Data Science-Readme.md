@@ -1,4 +1,4 @@
-# Python for Data Science 
+# Python for Data Science :white_check_mark:
 
 ## ABOUT THIS PYTHON COURSE
 
