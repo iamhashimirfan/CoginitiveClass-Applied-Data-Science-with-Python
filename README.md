@@ -6,7 +6,7 @@ In these data science courses, you’ll learn how to use the Python language to 
 
 ## Courses
 
-### Python for Data Science
+### Python for Data Science :white_check_mark:
 
 About the course
 
@@ -14,7 +14,7 @@ This free Python course provides a beginner-friendly introduction to Python for 
 
 Level:Beginner
 
-### Data Analysis with Python
+### Data Analysis with Python :black_circle:
 
 About the course
 
@@ -22,7 +22,7 @@ In this course, you will learn how to analyze data in Python using multi-dimensi
 
 Level:Intermediate
 
-### Data Visualization with Python
+### Data Visualization with Python :white_circle:
 
 About the course
 
